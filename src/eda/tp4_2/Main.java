@@ -25,17 +25,21 @@ public class Main {
         parque1.ingreso();
         parque1.ingreso();
         parque1.ingreso();
+
         
         parque1.ingreso();
-        
-//        parque1.salida(3);
-//        parque1.salida(2);
-//        parque1.salida();
-        
-//        parque1.ingreso();
-        
-        parque1.samba(4);
-        parque1.consultaPadre(10);
+        parque1.ingreso();
+        parque1.chocadores();
+        parque1.samba();
+        parque1.montaniaRusa();
+        parque1.samba();
+        parque1.salida(5);
+        parque1.salida(2);
+        parque1.salida(1);
+        parque1.salida(3);
+        parque1.salida(4);
+        parque1.ingreso();
+        parque1.consultaPadre(9);
         
     }
     
