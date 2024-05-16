@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package eda.tp4_2;
 
 import java.util.LinkedList;
@@ -39,8 +36,6 @@ public class Main {
         parque1.salida(3);
         parque1.salida(4);
         parque1.ingreso();
-        parque1.consultaPadre(9);
-        
+        parque1.consultaPadre(6);   
     }
-    
 }
